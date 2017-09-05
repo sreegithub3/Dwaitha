@@ -3,6 +3,6 @@
   <groupId>com.Dwaitha</groupId>
   <artifactId>Dwaitha</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Dwaitha</name>
   <packaging>jar</packaging>
+ <name>Jignaasa</name>
 </project>
